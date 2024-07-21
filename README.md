@@ -1,4 +1,4 @@
-Pokédex App
+<h1>Pokédex App</h1>
 Este proyecto utiliza la API de Pokémon para mostrar información detallada de cada Pokémon y guardarla localmente en archivos JSON.
 Librerías Utilizadas
 customtkinter: Para crear la interfaz gráfica de usuario.
